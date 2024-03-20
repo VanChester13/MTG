@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MTG/static/css/main.1da40f8c.css",
+    "main.js": "/MTG/static/js/main.4dffc1c3.js",
+    "static/media/logo.png": "/MTG/static/media/logo.98a781103c3c6a0d801a.png",
+    "static/media/womanProfile.png": "/MTG/static/media/womanProfile.3f889d0af5f26871fbcc.png",
+    "index.html": "/MTG/index.html",
+    "main.1da40f8c.css.map": "/MTG/static/css/main.1da40f8c.css.map",
+    "main.4dffc1c3.js.map": "/MTG/static/js/main.4dffc1c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1da40f8c.css",
+    "static/js/main.4dffc1c3.js"
+  ]
+}
